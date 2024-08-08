@@ -1,4 +1,4 @@
---- Write your PostgreSQL query statement below
+-- Write your PostgreSQL query statement below
 SELECT
 a.student_id, a.student_name, b.subject_name, COUNT(c.student_id) AS attended_exams
 FROM Students a
