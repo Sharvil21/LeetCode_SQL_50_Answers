@@ -1,4 +1,4 @@
--- Write your PostgreSQL query statement below
+--- Write your PostgreSQL query statement below
 WITH cte AS (SELECT
 *, DENSE_RANK() OVER(PARTITION BY customer_id ORDER BY order_date ASC) AS rnk
 FROM Delivery)
