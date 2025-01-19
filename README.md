@@ -5,5 +5,5 @@ This Repository contains the solutions for the SQL problems in the LeetCode SQL 
 
 | ID | Name | Solution Script |
 |:-------:|--------------------------|:-----------:|
-|1757| [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)| [Solution](/Solution%20Scripts/1757_Recyclable_and_Low_Fat_Products.sql) 
-
+|1757| [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)| [Solution](/Solutions/1757_Recyclable_and_Low_Fat_Products.sql) 
+|584| [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)| [Solution](/Solutions/584_Find_Customer_Referee.sql) 
